@@ -1,5 +1,5 @@
 If you’re considering using Kickstarter to fund your next big idea, you need to be armed with data so you’re not going about it blindly.
-with the given Kikstarter Dataset using Excel analytics tools we could summaraise the three folowing founding:
+with the given Kikstarter Dataset using Excel analytics tools we could summaraise the three folowing finding:
 
 
 1-	One of the outstanding conclusions we can make from the analysis is that the funding success rate is disproportional with the project goal amount, 
